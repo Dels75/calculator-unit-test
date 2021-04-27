@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/META-INF/maven/com.epam.tat.module4/calculator/calculator (1).iml" filepath="$PROJECT_DIR$/META-INF/maven/com.epam.tat.module4/calculator/calculator (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/META-INF/maven/com.epam.tat.module4/calculator/calculator (2) (com.epam.tat.module4).iml" filepath="$PROJECT_DIR$/META-INF/maven/com.epam.tat.module4/calculator/calculator (2) (com.epam.tat.module4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/calculator-unit-test.iml" filepath="$PROJECT_DIR$/.idea/calculator-unit-test.iml" />
+    </modules>
+  </component>
+</project>
